@@ -1,0 +1,11 @@
+{
+  "appDistribution": {
+    "app": "your-firebase-app-id",
+    "groups": {
+      "testers": "testers@example.com"
+    },
+    "releaseNotes": {
+      "default": "새로운 버전이 배포되었습니다."
+    }
+  }
+}
